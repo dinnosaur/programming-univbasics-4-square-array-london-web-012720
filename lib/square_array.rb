@@ -4,7 +4,7 @@ def square_array(array)
   array2 = []
   array2[counter]=array[counter]*array[counter]
   
-p array2
+puts array2
   counter +=1
 end
 end
