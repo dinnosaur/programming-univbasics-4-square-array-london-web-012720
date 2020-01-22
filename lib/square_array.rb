@@ -6,7 +6,7 @@ def square_array(array)
   
   number=array[counter]*array[counter]
   array2.push(number)
-   counter +=1
+   array2
+  counter +=1
 end
-puts array2
 end
