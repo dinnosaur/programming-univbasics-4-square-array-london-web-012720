@@ -9,5 +9,5 @@ def square_array(array)
 
   counter +=1
 end
-return array2
+puts array2
 end
