@@ -4,10 +4,9 @@ def square_array(array)
   
   while counter < array.length do
   
-  number=array[counter]*array[counter]
-  array2.push(number)
-
+ array2[counter]=array[counter]*array[counter]
+  
   counter +=1
 end
-puts array2
+return array2
 end
